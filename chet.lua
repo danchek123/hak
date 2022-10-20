@@ -29,4 +29,4 @@ end)
 Section:NewButton("Finish", "ButtonInfo", function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  CFrame.new(-1836.62146, 415.920898, 8971.22949, -0.222091794, -0.0709823892, 0.972438574, 0.0632502809, 0.994196951, 0.0870161355, -0.972972035, 0.0808325782, -0.216313332)
 end)
-afafa
+
